@@ -1,9 +1,5 @@
 .moving-image{
-    /* animation: animation1 2s none 0s;
-    animation:animation2 3s none 3s; */
-    /* animation: 2s 3s animation3; */
-    /* animation: 2s 3s animation4;
-    animation: 2s 3s animation5; */
+
     animation: 6s move;
 }
 
@@ -29,61 +25,3 @@
         margin-block: 20%;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* @keyframes animation1{
-    from{
-        margin-top: 0px;
-        margin-left: 0;
-    }
-    to{
-        margin-top: 0px;
-        margin-left: 90%;
-    }
-}
-@keyframes animation2{
-    from{
-        margin-top: 0px;
-        margin-left: 90%;
-    }
-    to{
-        margin-left: 90%;
-        margin-top: 44%;
-    }
-}
-@keyframes animation3{
-    from{
-        margin-top: 100%;
-    }
-    to{
-        margin-right: 100%;
-    }
-}
-@keyframes animation4{
-    from{
-        margin-right: 100%;
-    }
-    to{
-        margin-bottom: 100%;
-    }
-}
-@keyframes animation5{
-    from{
-        margin-bottom: 100%;
-    }
-    to{
-        margin: 50%;
-    }
-} */
